@@ -1,5 +1,5 @@
 # Khomyak Maria
-![alt text]("C:\Users\mariy\Pictures\Saved Pictures\photo_2024-06-30_19-24-13.jpg")
+![alt text](C:\Users\mariy\Pictures\Saved Pictures\photo_2024-06-30_19-24-13.jpg)
 ---
 ## My contact info
 * Telegram: Xxomma
