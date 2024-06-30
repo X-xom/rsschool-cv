@@ -1,5 +1,5 @@
 # Khomyak Maria
-<image src="\Users\mariy\Pictures\Saved Pictures\photo_2024-06-30_19-24-13.jpg" alt="Текст с описанием картинки">
+![alt text](image.png)
 ---
 ## My contact info
 * Telegram: Xxomma
