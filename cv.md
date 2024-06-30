@@ -1,4 +1,5 @@
-# Хомяк Мария
+# Khomyak Maria
+![alt text]("C:\Users\mariy\Pictures\Saved Pictures\photo_2024-06-30_19-24-13.jpg")
 ---
 ## My contact info
 * Telegram: Xxomma
@@ -6,7 +7,7 @@
 * Email: mariya.khomyak1@gmail.com
 * Discord: Xxom.xxom
 ---
-## about me
+## About me
 I am good at building relationships and in general I have developed soft skills. But besides this, I also want to have hard skills, because in the future I want to become a frontend developer. Also, after completing this course, I want to start participating in hackathons.
 ---
 ## Skills
